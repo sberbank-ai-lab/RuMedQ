@@ -38,7 +38,7 @@ Who are the annotators?
 The annotators were specialists with medical or pharmaceutical education.
 
 ## Licensing Information
-The dataset is distributed under a license CC BY 4.0
+The dataset is distributed under a license [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
 ## Citation Information
     @misc{Nesterov_SberMedQ_2021,
@@ -94,7 +94,7 @@ Who are the annotators?
 В качестве аннотаторов выступали специалисты, имеющие медицинское или фармацевтическое образование.
 
 ## Licensing Information
-Датасет распространяется по лицензии CC BY 4.0
+Датасет распространяется по лицензии [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
 ## Citation Information
     @misc{Nesterov_SberMedQ_2021,
