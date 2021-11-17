@@ -13,11 +13,11 @@ Russian
 
 ## Dataset Structure
 Data Instances
-{
-    "symptom": "low mood",
-    "question": "Does apathy often bother you?",
-    "isCorrectQ": 1
-}
+    {
+        "symptom": "low mood",
+        "question": "Does apathy often bother you?",
+        "isCorrectQ": 1
+    }
 Data Fields
     • symptom: a string feature
     • question: a string feature
@@ -39,14 +39,14 @@ The annotators were specialists with medical or pharmaceutical education.
 The dataset is distributed under a license CC BY 4.0
 
 ## Citation Information
-@misc{Nesterov_SberMedQ_2021,
-author = {Nesterov, Alexandr and Zubkova, Galina},
-month = {11},
-title = {{SberMedQ}},
-url = {https://github.com/sberbank-ai-lab/SberMedQ},
-version = {1.0.0},
-year = {2021}
-}
+    @misc{Nesterov_SberMedQ_2021,
+        author = {Nesterov, Alexandr and Zubkova, Galina},
+        month = {11},
+        title = {{SberMedQ}},
+        url = {https://github.com/sberbank-ai-lab/SberMedQ},
+        version = {1.0.0},
+        year = {2021}
+    }
 
 # Contributions
 This dataset was prepared by Alexander Nesterov, DS at Sber AI Lab
@@ -65,11 +65,11 @@ Russian
 
 ## Dataset Structure
 Data Instances
-{
-    "symptom": "Сниженное настроение",
-    "question": "Часто ли вас беспокоит апатия?",
-    "isCorrectQ": 1
-}
+    {
+        "symptom": "Сниженное настроение",
+        "question": "Часто ли вас беспокоит апатия?",
+        "isCorrectQ": 1
+    }
 Data Fields
     • symptom: a string feature
     • question: a string feature
@@ -93,14 +93,14 @@ Who are the annotators?
 Датасет распространяется по лицензии CC BY 4.0
 
 ## Citation Information
-@misc{Nesterov_SberMedQ_2021,
-author = {Nesterov, Alexandr and Zubkova, Galina},
-month = {11},
-title = {{SberMedQ}},
-url = {https://github.com/sberbank-ai-lab/SberMedQ},
-version = {1.0.0},
-year = {2021}
-}
+    @misc{Nesterov_SberMedQ_2021,
+        author = {Nesterov, Alexandr and Zubkova, Galina},
+        month = {11},
+        title = {{SberMedQ}},
+        url = {https://github.com/sberbank-ai-lab/SberMedQ},
+        version = {1.0.0},
+        year = {2021}
+    }
 
 # Contributions
 Датасет создан Нестеровым Алекстандром, ведущим исследователем данных лаборатории по искусственному интеллекту Сбера
