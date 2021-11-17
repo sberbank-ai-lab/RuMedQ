@@ -13,11 +13,13 @@ Russian
 
 ## Dataset Structure
 Data Instances
+
     {
         "symptom": "low mood",
         "question": "Does apathy often bother you?",
         "isCorrectQ": 1
     }
+
 Data Fields
     • symptom: a string feature
     • question: a string feature
@@ -49,7 +51,7 @@ The dataset is distributed under a license CC BY 4.0
     }
 
 # Contributions
-This dataset was prepared by Alexander Nesterov, DS at Sber AI Lab
+This dataset was prepared by Alexander Nesterov, DS at Sber AI Lab  
 This dataset was annotated by Galina Zubkova, PM at Sber AI Lab and Alexander Nesterov, DS at  Sber AI Lab
 
 
@@ -65,11 +67,13 @@ Russian
 
 ## Dataset Structure
 Data Instances
+
     {
         "symptom": "Сниженное настроение",
         "question": "Часто ли вас беспокоит апатия?",
         "isCorrectQ": 1
     }
+
 Data Fields
     • symptom: a string feature
     • question: a string feature
@@ -103,5 +107,5 @@ Who are the annotators?
     }
 
 # Contributions
-Датасет создан Нестеровым Алекстандром, ведущим исследователем данных лаборатории по искусственному интеллекту Сбера
+Датасет создан Нестеровым Алекстандром, ведущим исследователем данных лаборатории по искусственному интеллекту Сбера  
 Датасет аннотирован Зубковой Галиной, менеджером проектов лаборатории по искусственному интеллекту Сбера и Нестеровым Александром
