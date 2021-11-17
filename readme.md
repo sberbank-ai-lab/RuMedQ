@@ -21,10 +21,9 @@ Data Instances
     }
 
 Data Fields
-
-    - symptom: a string feature
-    - question: a string feature
-    - isCorrectQ: a int32 feature (0 or 1)
+- symptom: a string feature
+- question: a string feature
+- isCorrectQ: a int32 feature (0 or 1)
 
 Data Shape
 6053 lines, 3 columns
@@ -76,10 +75,9 @@ Data Instances
     }
 
 Data Fields
-
-    - symptom: a string feature
-    - question: a string feature
-    - isCorrectQ: a int32 feature (0 or 1)
+- symptom: a string feature
+- question: a string feature
+- isCorrectQ: a int32 feature (0 or 1)
 
 Data Shape
 6053 строки, 3 колонки
