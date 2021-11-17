@@ -5,8 +5,8 @@ Sber Medical Quastions Dataset (SberMedQ) is a synthetic dataset containing pair
 The dataset was synthesized using the RuGPT3 model trained on a small corpus of symptom-question pairs. 
 After generation, the dataset was cleared of syntactically incorrect questions, some typos and gross errors of generation were corrected, an annotation of the correspondence of the question to the symptom was carried out. 
 This dataset can be used for the following tasks:
-To train models to generate medical questions from given symptoms,
-As a benchmark in a Natural Language Inference task, where the symptom and the question act as a pair of sentences to be matched.
+1. To train models to generate medical questions from given symptoms,
+2. As a benchmark in a Natural Language Inference task, where the symptom and the question act as a pair of sentences to be matched.
 
 ## Languages
 Russian
@@ -21,9 +21,10 @@ Data Instances
     }
 
 Data Fields
-    • symptom: a string feature
-    • question: a string feature
-    • isCorrectQ: a int32 feature (0 or 1)
+
+    - symptom: a string feature
+    - question: a string feature
+    - isCorrectQ: a int32 feature (0 or 1)
 
 Data Shape
 6053 lines, 3 columns
@@ -75,9 +76,10 @@ Data Instances
     }
 
 Data Fields
-    • symptom: a string feature
-    • question: a string feature
-    • isCorrectQ: a int32 feature (0 or 1)
+
+    - symptom: a string feature
+    - question: a string feature
+    - isCorrectQ: a int32 feature (0 or 1)
 
 Data Shape
 6053 строки, 3 колонки
